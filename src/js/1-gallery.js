@@ -1,7 +1,9 @@
+// Завдання 1 - Галерея зображень
+
 'use strict';
 
 import SimpleLightbox from "simplelightbox";
-import "simplelightbox/dist/simple-lightbox.min.css";
+import 'simplelightbox/dist/simple-lightbox.min.css';
 
 const images = [
   {
